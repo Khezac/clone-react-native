@@ -7,7 +7,7 @@ Este projeto é um trabalho individual feito pra a disciplina de React Native du
 Com a finalidade de pôr em prática os conhecimentos adquiridos sobre a framework, este clone foi desenvolvido, ele é um clone do aplicativo real do CifraClub.
 
 ## Imagens do projeto:
-<table>
+<table align="center">
   <tr>
     <td valign="top">
       <p><b>Clone:</b></p>
